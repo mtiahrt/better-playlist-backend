@@ -35,3 +35,6 @@ git push heroku master
 ```
 
 You should now be able to go to http://mybackend.herokuapp.com/login and it will eventually redirect to http://myfrontend.herokuapp.com?access_token=ZZZZZwhere ZZZZZ is a valid access token that you can use to do operations in the Spotify API.
+
+
+Credit to https://github.com/mpj/oauth-bridge-template
